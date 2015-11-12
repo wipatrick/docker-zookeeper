@@ -1,2 +1,2 @@
 # docker-zookeeper
-Dockerized Zookeeper
+Dockerized Apache ZooKeeper
